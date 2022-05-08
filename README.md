@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 
 ```
-backup: https://linkedin.com/in/hagemt
+Confused? https://linkedin.com/in/hagemt
 node -p '`mailto:${Buffer.from("dG9yLmhhZ2VtYW5uQGdtYWlsLmNvbQ==", "base64").toString()}`'
 python -c 'from base64 import b64decode; print(b64decode("dGVoIG9uIG5wbWpzLmNvbSBvciBrZXliYXNlLmlv"))'
 ```
