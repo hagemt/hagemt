@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tor -- @hagemt
-- 👀 I’m interested in doing good for humanity outside of work (and while at work, separately)
-- 🌱 I’m currently learning Go(lang), game dev, as well as some lessons about *life outside tech*
+- 👀 I’m interested in doing good for humanity outside of work (and while at work, but separately)
+- 🌱 I’m currently learning Go(lang), game dev, as well as lessons about *life outside tech*
 - 💞️ I’m also looking to collaborate on small Python projects, or sites with NextJS (among other things)
 - 📫 How to reach me:
 
