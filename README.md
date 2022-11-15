@@ -1,16 +1,16 @@
 - 👋 Hi, I’m Tor -- @hagemt
-- 👀 I’m interested in doing good work, while at work, and life outside of it (separately)
-- 🌱 I’m currently learning Go, game dev, as well as lots of things about life **(outside tech)**
-- 💞️ I’m looking to collaborate on small Python projects, or sites with NextJS (among other things)
+- 👀 I’m interested in doing good for humanity outside of work (and while at work, separately)
+- 🌱 I’m currently learning Go(lang), game dev, as well as some lessons about *life outside tech*
+- 💞️ I’m also looking to collaborate on small Python projects, or sites with NextJS (among other things)
 - 📫 How to reach me:
 
 ```
-Confused? https://linkedin.com/in/hagemt
-node -p 'Buffer.from("bWFpbHRvOnRvckBvbmV0b29uZWFuZG9uLnRv", "base64").toString()'
-python -c 'from base64 import b64decode; print(b64decode("dGVoIG9uIG5wbWpzLmNvbSBvciBrZXliYXNlLmlv"))'
+Confused? Just use: https://linkedin.com/in/hagemt
+node -p 'Buffer.from("dGVoIG9uIG5wbWpzLmNvbSBvciBrZXliYXNlLmlv", "base64").toString()'
+python3 -c 'from base64 import b64decode; print(b64decode("bWFpbHRvOnRvckBvbmV0b29uZWFuZG9uLnRv"))'
 ```
 
-I'm not very active on GitHub anymore, so please bear with me, or try something else if I appear non-responsive.
+I'm not very active on GitHub anymore, so please bear with me (or try another approach) if I appear non-responsive.
 
 <!---
 hagemt/hagemt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
